@@ -9,6 +9,11 @@ Restore / undo closed tabs on any browser simply and easily
 </a>
 
 
+## Related 
+
+- https://gist.github.com/devinschumacher/bb92d6bfdf92c0f0cafc4308c606641d
+
+
 ## Keywords
 
 - how to reopen closed tabs
